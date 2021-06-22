@@ -14,9 +14,10 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android: android:fontFamily="sans-serif-condensed"
-        android: android : android:textSize="50dp"
-        andoid: android:textColor="@color/purple_200"
+        android:fontFamily="cursive"
+        android:textSize="39sp"
+        android:textColor="@color/purple_200"
+        android:textFontWeight="50"
         android:text="ANDROID DEV" />
 
     <EditText
@@ -40,9 +41,6 @@
     android:id="@+id/button"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-        android: android:background="@color/black"
+        android:background="@color/black"
     android:text="Click" />
-
-
-
 </LinearLayout>
